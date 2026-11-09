@@ -1,513 +1,186 @@
-# 🧮 Quantitative Aptitude
+# Aptitude & Verbal Ability – 30-Day Placement Preparation
 
-> **Goal:** Build placement-ready quantitative aptitude skills from fundamentals to timed problem solving.
+**30-Day Beginner-to-Placement Foundation Sprint | Quantitative Aptitude • Logical Reasoning • Verbal Ability**
 
-**Primary Practice:** GeeksforGeeks + placement aptitude tests
-**Method:** Learn concept → formulas → solved examples → timed practice → revision
+## 🎯 Objective
 
----
+This repository documents my 30-day aptitude preparation journey as a 2026 Computer Science Engineering graduate.
 
-## 📊 Overall Progress
+The objective is to develop mathematical accuracy, logical thinking, reading comprehension, vocabulary, grammar and time-management skills required for entry-level IT company placement assessments.
 
-* [ ] Numbers
-* [ ] LCM & HCF
-* [ ] Ratio & Proportion
-* [ ] Average
-* [ ] Problems on Ages
-* [ ] Percentages
-* [ ] Profit & Loss
-* [ ] Mixture & Alligation
-* [ ] Simple Interest
-* [ ] Compound Interest
-* [ ] Time, Speed & Distance
-* [ ] Trains, Boats & Streams
-* [ ] Race
-* [ ] Time, Work & Wages
-* [ ] Pipes & Cisterns
-* [ ] Algebra
-* [ ] Mensuration 2D
-* [ ] Mensuration 3D
-* [ ] Geometry
-* [ ] Trigonometry & Height/Distance
-* [ ] Progressions
-* [ ] Logarithms
-* [ ] Permutation & Combination
-* [ ] Probability
-* [ ] Clocks
-* [ ] Calendars
-* [ ] Simplification & Approximation
-* [ ] Data Interpretation
+**Starting Level:** Beginner – Aptitude preparation not yet started.
 
----
+## 📚 Learning Tracks
 
-# 1. Numbers
+1. Quantitative Aptitude
+2. Logical Reasoning
+3. Verbal Ability
+4. Speed, Accuracy and Time Management
 
-* [ ] Number fundamentals
-* [ ] Divisibility
-* [ ] Number properties
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+## 📅 30-Day Learning Roadmap
 
----
+### Week 1: Basic Mathematical and Logical Foundations
 
-# 2. LCM & HCF
+| Day | Quantitative Aptitude | Logical Reasoning | Verbal Ability |
+|---|---|---|---|
+| 01 | Number System | Number Series | Parts of Speech |
+| 02 | Types of Numbers | Alphabet Series | Nouns and Pronouns |
+| 03 | Divisibility Rules | Missing Numbers | Verbs |
+| 04 | HCF and LCM | Odd One Out | Adjectives and Adverbs |
+| 05 | Simplification | Analogy | Articles |
+| 06 | BODMAS | Classification | Prepositions |
+| 07 | Week 1 Revision and Assessment | Week 1 Assessment | Grammar Assessment |
 
-* [ ] LCM concepts
-* [ ] HCF concepts
-* [ ] Relationship between LCM & HCF
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+**Weekly target:**
+- Understand basic mathematical operations.
+- Identify number and alphabet patterns.
+- Understand fundamental English grammar.
+- Solve beginner-level questions independently.
 
----
+### Week 2: Arithmetic and Analytical Thinking
 
-# 3. Ratio & Proportion
+| Day | Quantitative Aptitude | Logical Reasoning | Verbal Ability |
+|---|---|---|---|
+| 08 | Percentages – Basics | Coding and Decoding | Subject-Verb Agreement |
+| 09 | Percentage Applications | Coding Patterns | Tenses |
+| 10 | Ratio and Proportion | Blood Relations | Active and Passive Voice |
+| 11 | Direct and Inverse Proportion | Family Tree Problems | Direct and Indirect Speech |
+| 12 | Averages | Direction Sense | Sentence Formation |
+| 13 | Problems on Ages | Distance and Position | Error Identification |
+| 14 | Week 2 Revision and Assessment | Reasoning Assessment | Grammar Assessment |
 
-* [ ] Ratio fundamentals
-* [ ] Proportion
-* [ ] Direct proportion
-* [ ] Inverse proportion
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+**Weekly target:**
+- Calculate percentages and ratios.
+- Solve basic age-related problems.
+- Understand coding-decoding patterns.
+- Improve sentence construction.
 
----
+### Week 3: Placement Arithmetic and Reasoning
 
-# 4. Average
+| Day | Quantitative Aptitude | Logical Reasoning | Verbal Ability |
+|---|---|---|---|
+| 15 | Profit and Loss | Syllogisms – Basics | Sentence Correction |
+| 16 | Discount | Venn Diagrams | Fill in the Blanks |
+| 17 | Simple Interest | Statement and Conclusion | Synonyms |
+| 18 | Compound Interest | Statement and Assumptions | Antonyms |
+| 19 | Time and Work | Seating Arrangement – Basics | Para Jumbles |
+| 20 | Pipes and Cisterns | Linear Arrangement | Reading Comprehension |
+| 21 | Week 3 Revision and Assessment | Reasoning Assessment | Verbal Assessment |
 
-* [ ] Average fundamentals
-* [ ] Weighted average
-* [ ] Average-based problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+**Weekly target:**
+- Solve common placement arithmetic problems.
+- Understand basic logical deductions.
+- Improve vocabulary and reading comprehension.
 
----
+### Week 4: Speed, Accuracy and Placement Practice
 
-# 5. Problems on Ages
+| Day | Quantitative Aptitude | Logical Reasoning | Verbal Ability |
+|---|---|---|---|
+| 22 | Speed, Time and Distance | Circular Arrangement – Basics | Reading Comprehension |
+| 23 | Trains | Data Sufficiency | Para Completion |
+| 24 | Boats and Streams – Basics | Data Interpretation | Sentence Improvement |
+| 25 | Data Interpretation – Tables | Mixed Logical Reasoning | Vocabulary Revision |
+| 26 | Data Interpretation – Charts | Mixed Reasoning Problems | Grammar Revision |
+| 27 | Mixed Arithmetic Practice | Mixed Reasoning Practice | Verbal Practice Test |
+| 28 | Quantitative Mock Test | Logical Reasoning Mock Test | Verbal Mock Test |
+| 29 | Weak Topic Revision | Weak Topic Revision | Weak Topic Revision |
+| 30 | Full Placement Aptitude Mock Test | Full Reasoning Assessment | Full Verbal Assessment |
 
-* [ ] Age fundamentals
-* [ ] Present age problems
-* [ ] Past age problems
-* [ ] Future age problems
-* [ ] Ratio-based age problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+**Weekly target:**
+- Improve problem-solving speed.
+- Reduce calculation mistakes.
+- Identify weak areas.
+- Complete timed placement-style assessments.
 
----
+## 🧠 Topic Learning Method
 
-# 6. Percentages
+Every topic will follow this process:
 
-* [ ] Percentage fundamentals
-* [ ] Percentage increase
-* [ ] Percentage decrease
-* [ ] Successive percentage change
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+1. Understand the concept from basics.
+2. Learn important formulas and shortcuts.
+3. Study solved examples.
+4. Solve beginner-level questions.
+5. Practice intermediate questions.
+6. Attempt timed questions.
+7. Review mistakes and revise.
 
----
+**Rule:** Shortcuts are introduced only after understanding the basic method.
 
-# 7. Profit & Loss
+## ⏱️ Daily Practice Schedule
 
-* [ ] Cost Price
-* [ ] Selling Price
-* [ ] Profit
-* [ ] Loss
-* [ ] Profit percentage
-* [ ] Loss percentage
-* [ ] Discount
-* [ ] Successive discounts
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+| Activity | Duration |
+|---|---:|
+| Quantitative Aptitude | 20 minutes |
+| Logical Reasoning | 15 minutes |
+| Verbal Ability | 10 minutes |
+| Formula and Vocabulary Revision | 5 minutes |
+| **Total** | **50 minutes** |
 
----
+## 📊 Daily Progress Tracker
 
-# 8. Mixture & Alligation
+| Day | Quant | Reasoning | Verbal | Assessment |
+|---|---|---|---|---|
+| 01 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 02 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 03 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 04 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 05 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 06 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 07 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 08–14 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15–21 | ⬜ | ⬜ | ⬜ | ⬜ |
+| 22–30 | ⬜ | ⬜ | ⬜ | ⬜ |
 
-* [ ] Mixture fundamentals
-* [ ] Alligation
-* [ ] Ratio-based mixtures
-* [ ] Replacement problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+## 📝 Assessment and Performance Tracking
 
----
+For every mock test, record:
 
-# 9. Simple Interest
+| Metric | What to Measure |
+|---|---|
+| Total Questions | Number of questions attempted |
+| Correct Answers | Correct responses |
+| Incorrect Answers | Wrong responses |
+| Accuracy | Correct answers / attempted answers × 100 |
+| Time Taken | Total completion time |
+| Weak Topics | Topics requiring additional practice |
 
-* [ ] Principal
-* [ ] Rate
-* [ ] Time
-* [ ] Simple Interest formula
-* [ ] Amount
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+### Performance Levels
 
----
+- **Below 50%:** Relearn the concepts.
+- **50–69%:** More practice required.
+- **70–84%:** Good foundation; improve speed.
+- **85% and above:** Strong performance; continue timed revision.
 
-# 10. Compound Interest
+These are personal learning benchmarks, not universal company cutoffs.
 
-* [ ] Compound Interest fundamentals
-* [ ] Amount calculation
-* [ ] Annual compounding
-* [ ] Half-yearly compounding
-* [ ] Difference between SI & CI
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
 
----
+## 📌 Learning Rules
 
-# 11. Time, Speed & Distance
+1. Practice every day.
+2. Understand formulas instead of memorizing blindly.
+3. Solve questions independently before checking solutions.
+4. Maintain a mistake notebook.
+5. Revise weak topics regularly.
+6. Practice with a timer.
+7. Focus on accuracy before speed.
+8. Complete weekly assessments honestly.
 
-* [ ] Speed
-* [ ] Time
-* [ ] Distance
-* [ ] Basic formula relationships
-* [ ] Relative speed
-* [ ] Average speed
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
+## 🎯 Expected Outcome After 30 Days
+
+By the end of this sprint, the goal is to:
+
+- Understand fundamental quantitative aptitude topics.
+- Solve common beginner and intermediate reasoning problems.
+- Improve basic English grammar and vocabulary.
+- Develop reading comprehension skills.
+- Manage time during placement assessments.
+- Identify strengths and weaknesses through mock tests.
+
+**Note:** This 30-day plan establishes placement aptitude foundations. Advanced placement questions and company-specific assessment patterns will require continued practice.
 
 ---
 
-# 12. Trains, Boats & Streams
-
-## Trains
-
-* [ ] Train crossing pole
-* [ ] Train crossing platform
-* [ ] Two trains
-* [ ] Relative speed
-
-## Boats & Streams
-
-* [ ] Upstream
-* [ ] Downstream
-* [ ] Still-water speed
-* [ ] Stream speed
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 13. Race
-
-* [ ] Race fundamentals
-* [ ] Relative speed
-* [ ] Winning distance
-* [ ] Winning time
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 14. Time, Work & Wages
-
-* [ ] Work fundamentals
-* [ ] Work efficiency
-* [ ] Individual work
-* [ ] Combined work
-* [ ] Work and wages
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 15. Pipes & Cisterns
-
-* [ ] Filling pipes
-* [ ] Emptying pipes
-* [ ] Combined pipes
-* [ ] Leak problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 16. Algebra
-
-* [ ] Algebra fundamentals
-* [ ] Algebraic expressions
-* [ ] Linear equations
-* [ ] Basic algebraic manipulation
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 17. Mensuration — 2D
-
-* [ ] Square
-* [ ] Rectangle
-* [ ] Triangle
-* [ ] Circle
-* [ ] Perimeter
-* [ ] Area
-* [ ] Composite figures
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 18. Mensuration — 3D
-
-* [ ] Cube
-* [ ] Cuboid
-* [ ] Cylinder
-* [ ] Cone
-* [ ] Sphere
-* [ ] Surface area
-* [ ] Volume
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 19. Geometry
-
-* [ ] Basic geometry
-* [ ] Lines & angles
-* [ ] Triangles
-* [ ] Quadrilaterals
-* [ ] Circles
-* [ ] Geometry formulas
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 20. Trigonometry & Height/Distance
-
-* [ ] Trigonometry fundamentals
-* [ ] Trigonometric ratios
-* [ ] Basic identities
-* [ ] Height & distance
-* [ ] Angle-based problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 21. Progressions
-
-* [ ] Progression fundamentals
-* [ ] Arithmetic Progression
-* [ ] Geometric Progression
-* [ ] Progression formulas
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 22. Logarithms
-
-* [ ] Logarithm fundamentals
-* [ ] Logarithm properties
-* [ ] Basic logarithmic equations
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 23. Permutation & Combination
-
-* [ ] Fundamental counting principle
-* [ ] Permutations
-* [ ] Combinations
-* [ ] Factorials
-* [ ] Arrangement problems
-* [ ] Selection problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 24. Probability
-
-* [ ] Probability fundamentals
-* [ ] Sample space
-* [ ] Events
-* [ ] Basic probability
-* [ ] Conditional-style problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 25. Clocks
-
-* [ ] Clock fundamentals
-* [ ] Angle between hands
-* [ ] Coinciding hands
-* [ ] Opposite hands
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 26. Calendars
-
-* [ ] Calendar fundamentals
-* [ ] Odd days
-* [ ] Leap years
-* [ ] Day calculation
-* [ ] Date-based problems
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 27. Simplification & Approximation
-
-* [ ] BODMAS
-* [ ] Fractions
-* [ ] Decimals
-* [ ] Approximation
-* [ ] Calculation shortcuts
-* [ ] Solve practice questions
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# 28. Data Interpretation
-
-* [ ] Tables
-* [ ] Bar graphs
-* [ ] Line graphs
-* [ ] Pie charts
-* [ ] Percentage-based DI
-* [ ] Ratio-based DI
-* [ ] Average-based DI
-* [ ] Solve practice sets
-* [ ] Attempt topic quiz
-* [ ] Timed practice
-* [ ] Revision
-
----
-
-# ⚡ Aptitude Practice System
-
-For **every topic**, follow this sequence:
-
-### Phase 1 — Learn
-
-* [ ] Understand the concept
-* [ ] Learn important formulas
-* [ ] Understand shortcuts
-* [ ] Solve 5 basic examples
-
-### Phase 2 — Practice
-
-* [ ] 10 Easy questions
-* [ ] 10 Medium questions
-* [ ] 5 Difficult questions
-* [ ] Record mistakes
-
-### Phase 3 — Timed Practice
-
-* [ ] Solve 10 questions under time limit
-* [ ] Track accuracy
-* [ ] Track average time/question
-* [ ] Identify weak subtopics
-
-### Phase 4 — Revision
-
-* [ ] Revision after 1 day
-* [ ] Revision after 7 days
-* [ ] Revision after 21 days
-* [ ] Reattempt previously wrong questions
-
----
-
-# 📈 Aptitude Metrics
-
-| Metric                  |    Target |
-| ----------------------- | --------: |
-| Accuracy                |     ≥ 85% |
-| Easy Question Time      |  ≤ 45 sec |
-| Medium Question Time    |  ≤ 90 sec |
-| Difficult Question Time | ≤ 2–3 min |
-| Daily Questions         |     20–30 |
-| Weekly Mock Tests       |         2 |
-| Monthly Full Mocks      |        4+ |
-
----
-
-# 🧪 Weekly Mock Test
-
-* [ ] Quantitative Aptitude Mock 1
-* [ ] Quantitative Aptitude Mock 2
-* [ ] Analyze mistakes
-* [ ] Identify weak topics
-* [ ] Revise formulas
-* [ ] Reattempt incorrect questions
-
----
-
-# 🏆 Placement Readiness
-
-* [ ] Solve aptitude questions without calculator
-* [ ] Recognize the question pattern quickly
-* [ ] Recall formulas without looking
-* [ ] Use shortcuts where appropriate
-* [ ] Avoid spending too long on one question
-* [ ] Maintain ≥85% accuracy
-* [ ] Complete timed aptitude tests
-* [ ] Analyze every mock test
-* [ ] Reattempt all incorrect questions
-
----
+**Learning with consistency. Practicing with accuracy. Improving with every assessment.**
 
 ## 🔥 Golden Rule
 
