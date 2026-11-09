@@ -6,7 +6,6 @@ public class FinalBill {
         double price=sc.nextDouble();
         double dis10=price*10.0/100;
         double dis5=price*5.0/100;
-        boolean isMember=true;
         double total10=price-dis10;
         double total5=price-dis5;
         if(price > 1000){
