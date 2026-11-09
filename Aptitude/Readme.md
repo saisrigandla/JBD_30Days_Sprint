@@ -1,4 +1,4 @@
-# Aptitude & Verbal Ability – 30-Day Placement Preparation
+# Aptitude, Logical reasoning & Verbal Ability – 30-Day Placement Preparation
 
 **30-Day Beginner-to-Placement Foundation Sprint | Quantitative Aptitude • Logical Reasoning • Verbal Ability**
 
