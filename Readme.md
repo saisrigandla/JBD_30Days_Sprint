@@ -4,15 +4,15 @@
 ## ✅ 30-DAY ACCURATE TRACKER
 
 ### PHASE 1: CORE JAVA (Nov 9-15) - IN PROGRESS
-- [x] **Nov 09 - Day 0: Printing** - `System.out.println` - DONE
-- [x] **Nov 09 - Day 1: Variables** - `Var.java` - shopName, quantity, price - DONE
-- [x] **Nov 09 - Day 2: Scanner Input** - `BillIn.java` - user input total - DONE
-- [x] **Nov 09 - Day 3: if-else Discount Logic** - `FinalBill.java` - 1500->1350, 600->570, 400->No Discount - DONE
-- [ ] **Nov 10 - Day 4: Loops** - `for`, `while` - multiple items billing
-- [ ] **Nov 11 - Day 5: Methods & Functions** - `calculateTotal()`, `applyDiscount()`
-- [ ] **Nov 12 - Day 6: OOPs Basics** - Class, Object, Constructor - `Shop.java`, `Product.java`
-- [ ] **Nov 13 - Day 7: Inheritance & Polymorphism** - `PremiumCustomer extends Customer`
-- [ ] **Nov 14 - Day 8: Collections** - `ArrayList<Product>`, `HashMap` - Inventory
+- [x] **Nov 09 - Day 0: Printing** 
+- [x] **Nov 09 - Day 1: Variables** 
+- [x] **Nov 09 - Day 2: Scanner Input** 
+- [x] **Nov 09 - Day 3: if-else Discount Logic** 
+- [ ] **Nov 10 - Day 4: Loops**
+- [ ] **Nov 11 - Day 5: Methods & Functions**
+- [ ] **Nov 12 - Day 6: OOPs Basics** - Class, Object, Constructor 
+- [ ] **Nov 13 - Day 7: Inheritance & Polymorphism**
+- [ ] **Nov 14 - Day 8: Collections**
 - [ ] **Nov 15 - Day 9: Exception & File Handling** - try-catch, FileWriter bill receipt
 
 > **PROJECT 1:** Console Supermarket Billing System - Due Nov 15
