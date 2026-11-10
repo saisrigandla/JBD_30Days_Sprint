@@ -57,11 +57,9 @@ For every topic, you MUST pass:
 2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 - [ ] Employee Management System -> Testing -> GitHub -> Resume explanation -> Mock interviews
 
-## 📊 TODAY CHECK - Nov 10
-**Loops topic - 3 checkpoints:**
-- [ ] Understand loops - for, while
-- [ ] Coded independently - LoopBill.java - 1300->1170 working
-- [ ] Explain in interview - Can you explain for vs while in 2 mins?
-
+## Sprint setup - Nov 10 (1/30)
+**one resrc per sub no hopping** 
+- strted(s) 18:00 to end(e) 18:44 
+- [x] GFG links aligned to my sprint tracker
 
 
