@@ -27,6 +27,7 @@ For every topic, you MUST pass:
 ## ✅ IMMEDIATE LEARNING ORDER - 6 Steps
 
 ### 1. Java Fundamentals - NOW - Nov 10-15
+[java from GFG](https://www.geeksforgeeks.org/java/java/)
 - [x] Variables, operators, conditions, loops - DONE - Understand, Coded (LoopBill), Explain - PASS
 - [ ] **TODAY Nov 10-11: Methods** - Understand, Code, Explain - Due Nov 11
 - [ ] Arrays - Due Nov 12
@@ -36,18 +37,24 @@ For every topic, you MUST pass:
 - [ ] Collections - ArrayList, LinkedList, HashSet, HashMap, Iterator - Due Nov 15
 
 ### 2. SQL - Nov 16-18
+[sql from GFG](https://www.geeksforgeeks.org/sql/sql-tutorial/)
 - [ ] DDL/DML -> SELECT -> Filtering -> Aggregate -> Joins -> Subqueries
 
 ### 3. DSA Basics - Nov 19-21
+[dsa FROM GFG](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
 - [ ] Arrays -> Strings -> Searching -> Sorting -> Basic problem solving
 
 ### 4. JDBC - Nov 22-24
+[jdbc from GFG](https://www.geeksforgeeks.org/java/jdbc-tutorial/)
 - [ ] Java-to-MySQL -> PreparedStatement -> CRUD
 
 ### 5. Spring Boot - Nov 25-Dec 03 - ONLY AFTER Milestone 1 PASS
+[springboot from GFG](https://www.geeksforgeeks.org/advance-java/spring-boot/)
 - [ ] Fundamentals -> REST APIs -> Layers -> JPA -> CRUD application
 
 ### 6. Project + Interview Prep - Dec 04-09
+[apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
+[interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 - [ ] Employee Management System -> Testing -> GitHub -> Resume explanation -> Mock interviews
 
 ## 📊 TODAY CHECK - Nov 10
