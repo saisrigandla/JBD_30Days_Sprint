@@ -53,8 +53,8 @@ For every topic, you MUST pass:
 - [ ] Fundamentals -> REST APIs -> Layers -> JPA -> CRUD application
 
 ### 6. Project + Interview Prep - Dec 04-09
-[apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
-[interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
+1. [apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
+2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 - [ ] Employee Management System -> Testing -> GitHub -> Resume explanation -> Mock interviews
 
 ## 📊 TODAY CHECK - Nov 10
