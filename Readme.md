@@ -66,14 +66,14 @@ For every topic, you MUST pass:
 - Drawing+insta post edit
 
 ## Nov 12 (3/30)
-**java**
+###java
 - [ ] basics
-**sql**
+###sql
 - [ ] basic sql concepts
-**dsa**
+###dsa
 - [ ] fundamentals
 - [ ] complexity analysis
-**apt**
+###apt
 - [ ] Number systems and basic arithmetic
 
 
