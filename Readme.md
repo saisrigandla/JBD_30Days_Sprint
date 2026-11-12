@@ -62,18 +62,14 @@ For every topic, you MUST pass:
 - strted(s) 18:00 to end(e) 18:44 
 - [x] GFG links aligned to my sprint tracker
 
-## Nov 11 (2/30)
-- Drawing+insta post edit
-
 ## Nov 12 (3/30)
-###java
-- [ ] basics
-###sql
-- [ ] basic sql concepts
-###dsa
-- [ ] fundamentals
-- [ ] complexity analysis
-###apt
-- [ ] Number systems and basic arithmetic
+### Java
+* [ ] Basics
+### SQL
+* [ ] Basic SQL concepts
+### DSA
+* [ ] Fundamentals* [ ] Complexity analysis
+### Aptitude
+* [ ] Number systems and basic arithmetic
 
 
