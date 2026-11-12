@@ -68,7 +68,7 @@ For every topic, you MUST pass:
 ##### SQL
 * [ ] Basic SQL concepts
 ##### DSA
-* [ ] Fundamentals* [ ] Complexity analysis
+* [ ] Fundamentals
 ##### Aptitude
 * [ ] Number systems and basic arithmetic
 
