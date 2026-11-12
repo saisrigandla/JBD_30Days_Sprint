@@ -63,7 +63,7 @@ For every topic, you MUST pass:
 - [x] GFG links aligned to my sprint tracker
 
 ## Nov 12 (3/30)
-Java
+#### Java
 * [ ] Basics
 SQL
 * [ ] Basic SQL concepts
