@@ -26,23 +26,68 @@ For every topic, you MUST pass:
 
 ## ✅ IMMEDIATE LEARNING ORDER - 6 Steps
 
-### 1. Java Fundamentals - NOW - Nov 10-15
-[java from GFG](https://www.geeksforgeeks.org/java/java/)
-- [x] Variables, operators, conditions, loops - DONE - Understand, Coded (LoopBill), Explain - PASS
-- [ ] **TODAY Nov 10-11: Methods** - Understand, Code, Explain - Due Nov 11
-- [ ] Arrays - Due Nov 12
-- [ ] Strings - Due Nov 12
-- [ ] OOP - Classes, objects, constructors, inheritance, polymorphism, abstraction, encapsulation - Due Nov 13-14
-- [ ] Exception Handling - try, catch, finally, throw, throws - Due Nov 15
-- [ ] Collections - ArrayList, LinkedList, HashSet, HashMap, Iterator - Due Nov 15
+### 1. Programming using java (10/11/2026 - 10/12/2026)
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview)
+- [x] Getting Started
+- [x] Intro to java
+- [ ] Keywords, Variables, Identifiers and Datatypes
+- [ ] Operators
+- [ ] Type Conversions
+- [ ] Control Structures
+- [ ] Intro to OOP
+- [ ] Methods
+- [ ] Constructors
+- [ ] this keyword
+- [ ] Memory Management
+- [ ] Encapsulation
+- [ ] Abstraction
+- [ ] Access Modifiers
+- [ ] Class diagram
+- [ ] String
+- [ ] Array
+- [ ] Testing
+- [ ] Debugging
+- [ ] Code Analysis
+- [ ] Static
+- [ ] Aggregation
+- [ ] Association
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] Object and Wrapper Classes
+- [ ] final Keyword
+- [ ] Abstract
+- [ ] Interface
+- [ ] Exception
+- [ ] Package
+- [ ] Unit Testing and Code Coverage
+- [ ] Recursion
+- [ ] Regular Expression
+- [ ] Summary
+- [ ] Integrated Assignment
+- [ ] Self Assessment - Programming using java
 
-### 2. SQL - Nov 16-18
-[sql from GFG](https://www.geeksforgeeks.org/sql/sql-tutorial/)
-- [ ] DDL/DML -> SELECT -> Filtering -> Aggregate -> Joins -> Subqueries
 
-### 3. DSA Basics - Nov 19-21
-[dsa FROM GFG](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
-- [ ] Arrays -> Strings -> Searching -> Sorting -> Basic problem solving
+### 2. Data Structures and Algorithms using Java (10/11/2026 - 10/12/2026)
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012889695666700288926_shared/overview)
+- [ ] Intro to Data Structures
+- [ ] Array
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Collections Framework and Generics
+- [ ] ArrayList
+- [ ] LinkedList
+- [ ] Set Interface
+- [ ] HashMap
+- [ ] Queue Interface
+- [ ] Intro to ALgorithms
+- [ ] Analysis of Algorithms
+- [ ] Searching Algorithms
+- [ ] Sorting Algorithms
+- [ ] Algorithm Techniques
+- [ ] Comparison of Algorithms
+- [ ] Summary
+- [ ] Self Assessment - Data Structures and Algorithms using Java
 
 ### 4. JDBC - Nov 22-24
 [jdbc from GFG](https://www.geeksforgeeks.org/java/jdbc-tutorial/)
@@ -57,19 +102,5 @@ For every topic, you MUST pass:
 2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 - [ ] Employee Management System -> Testing -> GitHub -> Resume explanation -> Mock interviews
 
-## Sprint setup - Nov 10 (1/30)
-**one resrc per sub no hopping** 
-- strted(s) 18:00 to end(e) 18:44 
-- [x] GFG links aligned to my sprint tracker
-
-## Nov 12 (3/30)
-##### Java
-* [ ] Basics
-##### SQL
-* [ ] Basic SQL concepts
-##### DSA
-* [ ] Fundamentals
-##### Aptitude
-* [ ] Number systems and basic arithmetic
 
 
