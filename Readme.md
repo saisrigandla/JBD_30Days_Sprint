@@ -117,7 +117,7 @@
 - [ ] Database Playground
 - [ ] AssessmentDB1
 ##### Part - 2
-[[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127673005629194241_shared/overview)
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127673005629194241_shared/overview)
 - [ ] Correlated Subquery
 - [ ] Practice Problems : Subquery
 - [ ] Videos on Independent Subquery and Correlated Subquery
