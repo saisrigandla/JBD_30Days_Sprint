@@ -42,7 +42,7 @@
 - [ ] Self Assessment - Programming using java
 
 
-### Java Programming Fundamentals
+### 2.Java Programming Fundamentals
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview)
 - [ ] Prelude
 - [ ] Introduction to Java
@@ -79,7 +79,26 @@
 - [ ] Assessment - Java Programming Fundamentals
 
 
-### 2. Database Management System - SQL
+### 3. Database and SQL
+[Infosys SpringBoard](http://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview)
+- [ ] Introduction
+- [ ] Videos on introduction to DBMS, keys and ER diagrams
+- [ ] SQL Basics
+- [ ] DDL Statements
+- [ ] DML Statements Part 1
+- [ ] Videos on DDL and DML Statements
+- [ ] Assignments : DDL Statements, Insert Statement and Select clause
+- [ ] DML Statements Part 2
+- [ ] Additional Concepts
+- [ ] Sorting Data
+- [ ] Group By Having
+- [ ] Cartesian Product and Inner Join
+- [ ] Independent Subquery
+- [ ] Database Playground
+- [ ] Assessment-SQL and Database
+
+      
+### 4. Database Management System 
 ##### Part - 1 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview)
 - [ ] Introduction
@@ -136,7 +155,7 @@
 - [ ] AssessmentDB2
 
 
-### 3. Introduction to NoSQL databases
+### 5. Introduction to NoSQL databases
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24062681407488140000_shared/overview)
 - [ ] Prelude
 - [ ] Why NoSQL?
@@ -147,7 +166,7 @@
 - [ ] 1596 - Introduction to NoSQL Databases - Assessment
 
 
-### 4. Data Structures and Algorithms using Java (10/11/2026 - 10/12/2026)
+### 6. Data Structures and Algorithms using Java (10/11/2026 - 10/12/2026)
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012889695666700288926_shared/overview)
 - [ ] Intro to Data Structures
 - [ ] Array
@@ -170,7 +189,7 @@
 - [ ] Self Assessment - Data Structures and Algorithms using Java
 
 
-### Software Engineering and Agile software development
+### 7. Software Engineering and Agile software development
  [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013382690411003904735_shared/overview)
 - [ ] Prelude
 - [ ] Software engineering fundamentals
@@ -178,7 +197,7 @@
 - [ ] Self-assessment
 
 
-### Agile Scrum in Practice
+### 8. Agile Scrum in Practice
 [Infosys SpringBoard]
 - [ ] Agile Scrum Learning Outcomes
 - [ ] Introduction to Agile Software Development
@@ -192,7 +211,7 @@
 - [ ] 1767 - Agile Scrum in Practice - Assessment
 
       
-### 5. Spring Essentials
+### 9. Spring Essentials
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01318928182131916893_shared/overview)
 - [ ] Introduction
 - [ ] Introduction to Spring Framework
@@ -209,7 +228,7 @@
 - [ ] Self Assessment
 
 
-### Spring 5 Basics
+### 10. Spring 5 Basics
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_19872203945352840000_shared/overview)
 - [ ] Prelude
 - [ ] Introduction to Spring Framework
@@ -225,7 +244,7 @@
 - [ ] Spring 5 Basics - Assessment
 
 
-### 6. Spring 5 Basics with Spring Boot
+### 11. Spring 5 Basics with Spring Boot
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01296689056211763272_shared/overview)
 - [ ] Prelude
 - [ ] Introduction to Spring Framework
@@ -242,7 +261,7 @@
 - [ ] Appendix
 
  
-### 6. Spring JDBC
+### 12. Spring JDBC
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01291602631850393612228_shared/overview)
 - [ ] Prelude
 - [ ] Introduction Spring JDBC
@@ -256,7 +275,7 @@
 - [ ] Spring JDBC Assessment
 
 
-### Spring MVC
+### 13. Spring MVC
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_12544994655504722000_shared/overview)
 - [ ] Getting Started
 - [ ] Why Spring MVC?
@@ -277,7 +296,7 @@
 - [ ] Spring MVC - Assessment
 
 
-### 6. Project + Interview Prep - 10/11/2026 - 10/12/2026
+### 14. Project + Interview Prep - 10/11/2026 - 10/12/2026
 1. [apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
    
 2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
