@@ -83,7 +83,7 @@
 [Infosys SpringBoard](http://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview)
 - [ ] Introduction
 - [ ] Videos on introduction to DBMS, keys and ER diagrams
-- [ ] SQL Basics
+- [x] SQL Basics
 - [ ] DDL Statements
 - [ ] DML Statements Part 1
 - [ ] Videos on DDL and DML Statements
