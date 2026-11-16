@@ -1,7 +1,42 @@
-# 30 DAY SPRINT - FINAL LOCKED PLAN - 10/11/2026 to 10/12/2026
+### 30 DAY JAVA FULL STACK DEVELOPER SPRINT (10/11/2026 to 10/12/2026)
 
+###### 1. Java Programming Fundamentals 
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview)
+- [ ] Prelude
+- [ ] Introduction to Java
+- [ ] Java Architecture
+- [ ] Class and Object
+- [ ] Data Types
+- [ ] Operators
+- [ ] Type Casting
+- [ ] Conditional Statements
+- [ ] Arrays
+- [ ] Enhanced for loop
+- [ ] Object Oriented Concepts using Java
+- [ ] Constructors
+- [ ] this Keyword
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] super Keyword
+- [ ] final Keyword
+- [ ] static Modifier
+- [ ] Variable Arguments
+- [ ] Enumerated Data Types
+- [ ] Abstract class
+- [ ] Interface
+- [ ] Package
+- [ ] Access Modifiers
+- [ ] Java Libraries
+- [ ] Exceptions
+- [ ] Generics
+- [ ] The Collections Framework
+- [ ] Date/Time API
+- [ ] Best Coding Practices
+- [ ] Appendix
+- [ ] Java Programming Fundamentals Capstone
+- [ ] Assessment - Java Programming Fundamentals
 
-### 1. Programming using java (10/11/2026 - 10/12/2026)
+###### 2. Programming using java (10/11/2026 - 10/12/2026)
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview)
 - [x] Getting Started
 - [x] Intro to java
@@ -41,28 +76,9 @@
 - [ ] Integrated Assignment
 - [ ] Self Assessment - Programming using java
 
-
-### 2. Database and SQL
-[Infosys SpringBoard](http://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview)
-- [ ] Introduction
-- [ ] Videos on introduction to DBMS, keys and ER diagrams
-- [x] SQL Basics
-- [ ] DDL Statements
-- [ ] DML Statements Part 1
-- [ ] Videos on DDL and DML Statements
-- [ ] Assignments : DDL Statements, Insert Statement and Select clause
-- [ ] DML Statements Part 2
-- [ ] Additional Concepts
-- [ ] Sorting Data
-- [ ] Group By Having
-- [ ] Cartesian Product and Inner Join
-- [ ] Independent Subquery
-- [ ] Database Playground
-- [ ] Assessment-SQL and Database
-
       
-### 3. Database Management System 
-##### Part - 1 
+##### 3. Database Management System 
+###### Part - 1 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview)
 - [ ] Introduction
 - [ ] ER Diagram
@@ -98,7 +114,7 @@
 - [ ] Self Study on Joins
 - [ ] Database Playground
 - [ ] AssessmentDB1
-##### Part - 2
+###### Part - 2
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0127673005629194241_shared/overview)
 - [ ] Correlated Subquery
 - [ ] Practice Problems : Subquery
@@ -118,7 +134,7 @@
 - [ ] AssessmentDB2
 
 
-### 5. Introduction to NoSQL databases
+###### 4. Introduction to NoSQL databases
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24062681407488140000_shared/overview)
 - [ ] Prelude
 - [ ] Why NoSQL?
@@ -129,7 +145,29 @@
 - [ ] 1596 - Introduction to NoSQL Databases - Assessment
 
 
-### 6. Data Structures and Algorithms using Java (10/11/2026 - 10/12/2026)
+###### 5. Software Engineering and Agile software development
+ [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013382690411003904735_shared/overview)
+- [ ] Prelude
+- [ ] Software engineering fundamentals
+- [ ] Agile software development
+- [ ] Self-assessment
+
+
+###### 6. Agile Scrum in Practice
+[Infosys SpringBoard]
+- [ ] Agile Scrum Learning Outcomes
+- [ ] Introduction to Agile Software Development
+- [ ] Sprint 0 - Discovery
+- [ ] Sprint 0 - Initiation
+- [ ] Release Planning
+- [ ] Sprint 1 to N
+- [ ] Technical Practices
+- [ ] ASIP Conclusion
+- [ ] Appendix - Technical practices (Code examples and activities)
+- [ ] 1767 - Agile Scrum in Practice - Assessment
+
+
+###### 7. Data Structures and Algorithms using Java 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012889695666700288926_shared/overview)
 - [ ] Intro to Data Structures
 - [ ] Array
@@ -152,117 +190,64 @@
 - [ ] Self Assessment - Data Structures and Algorithms using Java
 
 
-### 7. Software Engineering and Agile software development
- [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013382690411003904735_shared/overview)
+###### 8. Learning Full Stack Development
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944255397642242299_shared/overview)
+- [ ] Setting Up Node.js and NPM
+- [ ] Getting to Know NPM
+- [ ] Node.js
+- [ ] Express.js
+- [ ] MongoDB and Beyond
+- [ ] Assessment 
+
+
+###### 9.Java Tools
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130010013369876481902_shared/overview)
 - [ ] Prelude
-- [ ] Software engineering fundamentals
-- [ ] Agile software development
-- [ ] Self-assessment
+- [ ] Eclipse
+- [ ] IntelliJ IDEA
+- [ ] SonarLint
+- [ ] Database Servers
+- [ ] Postman Tool
+- [ ] Java Tools - Assessment
 
 
-### 8. Agile Scrum in Practice
-[Infosys SpringBoard]
-- [ ] Agile Scrum Learning Outcomes
-- [ ] Introduction to Agile Software Development
-- [ ] Sprint 0 - Discovery
-- [ ] Sprint 0 - Initiation
-- [ ] Release Planning
-- [ ] Sprint 1 to N
-- [ ] Technical Practices
-- [ ] ASIP Conclusion
-- [ ] Appendix - Technical practices (Code examples and activities)
-- [ ] 1767 - Agile Scrum in Practice - Assessment
+###### 10.Java Language Features
+[[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20744240071906970000_shared/overview)
+- [ ] Prelude
+- [ ] Generic Methods and Wildcards
+- [ ] Collections - Comparing and Sorting
+- [ ] Regex
+- [ ] Inner Class
+- [ ] IO Operations
+- [ ] JDBC
+- [ ] Multithreading
+- [ ] Concurrency
+- [ ] Memory Management and Garbage Collection
+- [ ] SonarLint
+- [ ] Best Practices
+- [ ] Appendix
+- [ ] Java Language Features Capstone
+- [ ] Assessment - Java Language Features
+
+
+###### 11.Java SE 8 Features
+[[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_25529606976739830000_shared/overview)
+- [ ] Prelude
+- [ ] Evolution of Java
+- [ ] Default and Static Methods
+- [ ] Lambda Expressions
+- [ ] Streams
+- [ ] Optional Class
+- [ ] DateTime API
+- [ ] Best Practices
+- [ ] Appendix
+- [ ] Java SE8 Features Capstone
+- [ ] Java SE 8 Features - Assessment
 
       
-### 9. Spring Essentials
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01318928182131916893_shared/overview)
-- [ ] Introduction
-- [ ] Introduction to Spring Framework
-- [ ] Spring Inversion of Control
-- [ ] Spring IoC Container
-- [ ] Dependency Injection using Autowiring
-- [ ] Bean Scope
-- [ ] Spring Boot
-- [ ] Logging in Spring Boot Application
-- [ ] Spring AOP
-- [ ] Testing Spring Boot Aplication
-- [ ] Spring Profiles
-- [ ] Appendix
-- [ ] Self Assessment
-
-
-### 10. Spring 5 Basics
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_19872203945352840000_shared/overview)
-- [ ] Prelude
-- [ ] Introduction to Spring Framework
-- [ ] Spring Inversion of Control
-- [ ] Dependency Injection
-- [ ] Autowiring
-- [ ] Bean Scope
-- [ ] Spring Annotation and Java based configuration
-- [ ] Spring AOP
-- [ ] Best Practices
-- [ ] Appendix
-- [ ] Spring 5 Basics - Capstone
-- [ ] Spring 5 Basics - Assessment
-
-
-### 11. Spring 5 Basics with Spring Boot
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01296689056211763272_shared/overview)
-- [ ] Prelude
-- [ ] Introduction to Spring Framework
-- [ ] Spring Inversion of Control
-- [ ] Dependency Injection
-- [ ] Auto Scanning
-- [ ] Introduction to Spring Boot
-- [ ] Autowiring and Scope of the bean
-- [ ] SpringBoot Logging
-- [ ] AOP
-- [ ] Best Practices
-- [ ] Spring Profiles
-- [ ] Spring 5 Basics with Spring Boot Capstone
-- [ ] Appendix
-
- 
-### 12. Spring JDBC
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01291602631850393612228_shared/overview)
-- [ ] Prelude
-- [ ] Introduction Spring JDBC
-- [ ] Spring JDBC CRUD
-- [ ] Named Parameters
-- [ ] Exception Handling
-- [ ] Spring Transaction
-- [ ] Spring JDBC Best Practices
-- [ ] Spring JDBC Capstone
-- [ ] What's Next?
-- [ ] Spring JDBC Assessment
-
-
-### 13. Spring MVC
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_12544994655504722000_shared/overview)
-- [ ] Getting Started
-- [ ] Why Spring MVC?
-- [ ] What is Spring MVC?
-- [ ] InfyGo - Spring MVC
-- [ ] Spring MVC UI
-- [ ] Internationalization and Localization
-- [ ] Dynamic Rows
-- [ ] Content Negotiation
-- [ ] Spring REST
-- [ ] Spring MVC Summary
-- [ ] Appendix A
-- [ ] Appendix B
-- [ ] Appendix C
-- [ ] Appendix D
-- [ ] Spring MVC Hands-On Try Out
-- [ ] Spring MVC Capstone Project
-- [ ] Spring MVC - Assessment
-
-
-### 14. Project + Interview Prep - 10/11/2026 - 10/12/2026
-1. [apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
-   
-2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
+###### Project + Interview Prep - 10/11/2026 - 10/12/2026
+- [ ] 1. [apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
+- [ ] 2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 
 
 
