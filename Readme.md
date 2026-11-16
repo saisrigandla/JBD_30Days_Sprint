@@ -245,7 +245,7 @@
 - [ ] Java SE 8 Features - Assessment
 
       
-###### Project + Interview Prep - 10/11/2026 - 10/12/2026
+##### Project + Interview Prep 
 - [ ] 1. [apt'30 from gfg](https://www.geeksforgeeks.org/blogs/how-to-crack-aptitude-of-any-company-in-30-days/)
 - [ ] 2. [interview prep](https://www.geeksforgeeks.org/blogs/interview-preparation/)
 
