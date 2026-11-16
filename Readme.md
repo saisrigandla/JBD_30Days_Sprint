@@ -44,10 +44,10 @@
 
 ### 2.Java Programming Fundamentals
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview)
-- [ ] Prelude
-- [ ] Introduction to Java
-- [ ] Java Architecture
-- [ ] Class and Object
+- [x] Prelude
+- [x] Introduction to Java
+- [x] Java Architecture
+- [x] Class and Object
 - [ ] Data Types
 - [ ] Operators
 - [ ] Type Casting
