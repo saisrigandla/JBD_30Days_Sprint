@@ -42,44 +42,7 @@
 - [ ] Self Assessment - Programming using java
 
 
-### 2.Java Programming Fundamentals
-[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview)
-- [x] Prelude
-- [x] Introduction to Java
-- [x] Java Architecture
-- [x] Class and Object
-- [ ] Data Types
-- [ ] Operators
-- [ ] Type Casting
-- [ ] Conditional Statements
-- [ ] Arrays
-- [ ] Enhanced for loop
-- [ ] Object Oriented Concepts using Java
-- [ ] Constructors
-- [ ] this Keyword
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] super Keyword
-- [ ] final Keyword
-- [ ] static Modifier
-- [ ] Variable Arguments
-- [ ] Enumerated Data Types
-- [ ] Abstract class
-- [ ] Interface
-- [ ] Package
-- [ ] Access Modifiers
-- [ ] Java Libraries
-- [ ] Exceptions
-- [ ] Generics
-- [ ] The Collections Framework
-- [ ] Date/Time API
-- [ ] Best Coding Practices
-- [ ] Appendix
-- [ ] Java Programming Fundamentals Capstone
-- [ ] Assessment - Java Programming Fundamentals
-
-
-### 3. Database and SQL
+### 2. Database and SQL
 [Infosys SpringBoard](http://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013742013179420672150_shared/overview)
 - [ ] Introduction
 - [ ] Videos on introduction to DBMS, keys and ER diagrams
@@ -98,7 +61,7 @@
 - [ ] Assessment-SQL and Database
 
       
-### 4. Database Management System 
+### 3. Database Management System 
 ##### Part - 1 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_01275806667282022456_shared/overview)
 - [ ] Introduction
