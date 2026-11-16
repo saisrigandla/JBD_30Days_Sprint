@@ -1,8 +1,8 @@
 ### JAVA FOUNDATION FROM INFOSYS SPRINGBOARD (10/11/2026 - 10/12/2026)
 
-#### 3. Java Basics - Introduction to Java
+#### 1. Java Basics - Introduction to Java
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0129491320396840961294_shared/overview)
-- [ ] Java Architecture
+- [x] Java Architecture
 - [ ] Features of Java
 - [ ] Introduction to JShell
 - [ ] Java Installation - Video
