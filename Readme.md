@@ -134,7 +134,7 @@
 - [ ] AssessmentDB2
 
 
-###### 4. Introduction to NoSQL databases
+##### 4. Introduction to NoSQL databases
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_24062681407488140000_shared/overview)
 - [ ] Prelude
 - [ ] Why NoSQL?
@@ -145,7 +145,7 @@
 - [ ] 1596 - Introduction to NoSQL Databases - Assessment
 
 
-###### 5. Software Engineering and Agile software development
+##### 5. Software Engineering and Agile software development
  [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_013382690411003904735_shared/overview)
 - [ ] Prelude
 - [ ] Software engineering fundamentals
@@ -153,7 +153,7 @@
 - [ ] Self-assessment
 
 
-###### 6. Agile Scrum in Practice
+##### 6. Agile Scrum in Practice
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_5501638797018560000_shared/overview)
 - [ ] Agile Scrum Learning Outcomes
 - [ ] Introduction to Agile Software Development
@@ -167,7 +167,7 @@
 - [ ] 1767 - Agile Scrum in Practice - Assessment
 
 
-###### 7. Data Structures and Algorithms using Java 
+##### 7. Data Structures and Algorithms using Java 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012889695666700288926_shared/overview)
 - [ ] Intro to Data Structures
 - [ ] Array
@@ -190,7 +190,7 @@
 - [ ] Self Assessment - Data Structures and Algorithms using Java
 
 
-###### 8. Learning Full Stack Development
+##### 8. Learning Full Stack Development
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944255397642242299_shared/overview)
 - [ ] Setting Up Node.js and NPM
 - [ ] Getting to Know NPM
@@ -200,7 +200,7 @@
 - [ ] Assessment 
 
 
-###### 9.Java Tools
+##### 9.Java Tools
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130010013369876481902_shared/overview)
 - [ ] Prelude
 - [ ] Eclipse
@@ -211,7 +211,7 @@
 - [ ] Java Tools - Assessment
 
 
-###### 10.Java Language Features
+##### 10.Java Language Features
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20744240071906970000_shared/overview)
 - [ ] Prelude
 - [ ] Generic Methods and Wildcards
@@ -230,7 +230,7 @@
 - [ ] Assessment - Java Language Features
 
 
-###### 11.Java SE 8 Features
+##### 11.Java SE 8 Features
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_25529606976739830000_shared/overview)
 - [ ] Prelude
 - [ ] Evolution of Java
