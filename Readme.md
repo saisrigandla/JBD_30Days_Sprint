@@ -200,7 +200,7 @@
 - [ ] Assessment 
 
 
-##### 9.Java Tools
+##### 9. Java Tools
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130010013369876481902_shared/overview)
 - [ ] Prelude
 - [ ] Eclipse
@@ -211,7 +211,7 @@
 - [ ] Java Tools - Assessment
 
 
-##### 10.Java Language Features
+##### 10. Java Language Features
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20744240071906970000_shared/overview)
 - [ ] Prelude
 - [ ] Generic Methods and Wildcards
@@ -230,7 +230,7 @@
 - [ ] Assessment - Java Language Features
 
 
-##### 11.Java SE 8 Features
+##### 11. Java SE 8 Features
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_25529606976739830000_shared/overview)
 - [ ] Prelude
 - [ ] Evolution of Java
