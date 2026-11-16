@@ -1,6 +1,6 @@
 ### 30 DAY JAVA FULL STACK DEVELOPER SPRINT (10/11/2026 to 10/12/2026)
 
-###### 1. Java Programming Fundamentals 
+##### 1. Java Programming Fundamentals 
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_29959473947367270000_shared/overview)
 - [ ] Prelude
 - [ ] Introduction to Java
@@ -36,7 +36,7 @@
 - [ ] Java Programming Fundamentals Capstone
 - [ ] Assessment - Java Programming Fundamentals
 
-###### 2. Programming using java (10/11/2026 - 10/12/2026)
+##### 2. Programming using java
 [Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012880464547618816347_shared/overview)
 - [x] Getting Started
 - [x] Intro to java
@@ -154,7 +154,7 @@
 
 
 ###### 6. Agile Scrum in Practice
-[Infosys SpringBoard]
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_5501638797018560000_shared/overview)
 - [ ] Agile Scrum Learning Outcomes
 - [ ] Introduction to Agile Software Development
 - [ ] Sprint 0 - Discovery
@@ -212,7 +212,7 @@
 
 
 ###### 10.Java Language Features
-[[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20744240071906970000_shared/overview)
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_20744240071906970000_shared/overview)
 - [ ] Prelude
 - [ ] Generic Methods and Wildcards
 - [ ] Collections - Comparing and Sorting
@@ -231,7 +231,7 @@
 
 
 ###### 11.Java SE 8 Features
-[[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_25529606976739830000_shared/overview)
+[Infosys SpringBoard](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_25529606976739830000_shared/overview)
 - [ ] Prelude
 - [ ] Evolution of Java
 - [ ] Default and Static Methods
