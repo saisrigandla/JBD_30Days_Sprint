@@ -24,7 +24,7 @@
 | Database | MySQL |
 | Frontend | HTML, CSS, JavaScript |
 | API Development | REST APIs |
-| Development Tools | IntelliJ IDEA, Maven, Postman |
+| Development Tools | VS Code (Currently Using), Maven, Postman (To Learn) |
 | Version Control | Git and GitHub |
 | Main Project | TaskFlow – Task Management Application |
 
