@@ -186,8 +186,8 @@ A course video or completed assessment alone does not count as practical complet
 
 - [ ] Normalization
 - [ ] Functional Dependencies
-- [ ] SQL Basics
-- [ ] SQL Practice Problems
+- [x] SQL Basics
+- [x] SQL Practice Problems
 - [ ] Database Design Assignment
 
 ### SQL Commands
