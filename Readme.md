@@ -73,10 +73,10 @@ A course video or completed assessment alone does not count as practical complet
 
 ### Course Checklist
 
-- [ ] Prelude
-- [ ] Introduction to Java
-- [ ] Java Architecture
-- [ ] Class and Object
+- [x] Prelude
+- [x] Introduction to Java
+- [x] Java Architecture
+- [x] Class and Object
 - [ ] Data Types
 - [ ] Operators
 - [ ] Type Casting
