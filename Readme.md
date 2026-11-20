@@ -716,14 +716,14 @@ If time is limited, reduce optional course consumption rather than removing hand
 |---|---|---|---|---|
 | Nov 10 | Java Introduction | | | [x] |
 | Nov 11 | Java Basics | | | [x] |
-| Nov 12 | | | | [ ] |
-| Nov 13 | | | | [ ] |
-| Nov 14 | | | | [ ] |
-| Nov 15 | | | | [ ] |
-| Nov 16 | | | | [ ] |
-| Nov 17 | | | | [ ] |
-| Nov 18 | | | | [ ] |
-| Nov 19 | | | | [ ] |
+| Nov 12 | intro of java | | | [x] |
+| Nov 13 | sql basics | | | [x] |
+| Nov 14 | java basic programs | | | [x] |
+| Nov 15 | java basic prgrams | | | [x] |
+| Nov 16 | java basic programs | | | [x] |
+| Nov 17 | java basic programs | | | [x] |
+| Nov 18 | java basic programs | | | [x] |
+| Nov 19 | java basic programs | | | [x] |
 | Nov 20 | | | | [ ] |
 | Nov 21 | | | | [ ] |
 | Nov 22 | | | | [ ] |
